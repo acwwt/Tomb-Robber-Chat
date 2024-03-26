@@ -1,4 +1,4 @@
-![image](https://oss.lingkongstudy.com.cn/blog/202403212028624.png)
+![Tomb-Robber-Chat](./images/Tomb-Robber-Chat.png)
 
 ## 简介
 
